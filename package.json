@@ -1,0 +1,27 @@
+{
+  "name": "file-metadata-api",
+  "version": "1.0.0",
+  "description": "freeCodeCamp file metadata microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ninja-1/file-metadata-api.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "file-metadata"
+  ],
+  "author": "ninja-1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ninja-1/file-metadata-api/issues"
+  },
+  "homepage": "https://github.com/Ninja-1/file-metadata-api#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
+}
